@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="URLEncoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../URLEncoder/out/artifacts/URLEncoder_jar/URLEncoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
