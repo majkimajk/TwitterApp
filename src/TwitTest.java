@@ -18,7 +18,7 @@ import java.io.UnsupportedEncodingException;
 
 public class TwitTest{
 
-    private final String AGENT = "TwitTest v. 0.0.1";
+    protected final String AGENT = "TwitTest v. 0.0.1";
 
 
     public static void main(String[] args){
